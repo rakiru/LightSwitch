@@ -1,0 +1,4 @@
+name: LightSwitch
+main: me.br_.bukkit.LightSwitch.LightSwitchMain
+version: 0.1
+author: BR_
